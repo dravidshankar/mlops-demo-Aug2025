@@ -4,8 +4,8 @@ import os
 
 # Define a simple DataFrame as input
 input_data = pd.DataFrame([{
-    "feature1": 3.2,
-    "feature2": 7.5
+    "trip_distance": 3.2,
+    "trip_duration": 7.5
 }])
 
 # Path to model
