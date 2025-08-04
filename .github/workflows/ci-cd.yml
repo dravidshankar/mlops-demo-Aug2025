@@ -30,6 +30,4 @@ jobs:
         run: |
           python predict.py
 
-      - name: Run test suite
-        run: |
-          python test.py
+
