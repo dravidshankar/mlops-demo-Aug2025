@@ -4,7 +4,7 @@ import os
 
 # Define a simple DataFrame as input
 input_data = pd.DataFrame([{
-    "trip_distance": 3.2,
+    "trip_distance": 300,
     "trip_duration": 7.5
 }])
 
